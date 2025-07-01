@@ -1,0 +1,7 @@
+ls : listar arquivos e pastas 
+cd : muda de diretório (cd + diretório)
+pwd  : caminho absoluto do diretório - pathwork directory
+ls -a : lista arquivos ocultos
+.. - pasta mãe
+. - própria pasta
+mkdir - fazer diretório (escolher o nome)

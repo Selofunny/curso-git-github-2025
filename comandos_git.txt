@@ -1,2 +1,14 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho (de cada arquivo)
+COMANDOS GIT:
+
+git status : como está o diretório
+git add nomearquivo : sinaliza o que vai entrar no versionamento
+git commit -m “descrição” : commitar um arquivo - todo commit tem uma assinatura eletrônica
+git config –global user.name
+git config –global user.email
+git add . (adiciona tudo de dentro da pasta atual pro commit)
+git diff (arquivo)
+
+Todo commit tem uma hash (ID)
+
+
+nano nomearquivo.tipoarquivo - editor de texto

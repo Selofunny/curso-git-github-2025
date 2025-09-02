@@ -1,0 +1,28 @@
+
+comandos ferramenta:
+
+ls : listar arquivos e pastas 
+cd : muda de diretório (cd + diretório)
+pwd  : caminho absoluto do diretório - pathwork directory
+ls -a : lista arquivos ocultos
+.. - pasta mãe
+. - própria pasta
+mkdir - fazer diretório (escolher o nome)
+cat - executa o arquivo
+git init . : torna a pasta como repositório de git
+rm -rf .git/ : exclui a pasta git sem pedir confirmação e de forma recursiva (tomar cuidado com essa formula)
+
+COMANDOS GIT:
+
+git status : como está o diretório
+git add nomearquivo : sinaliza o que vai entrar no versionamento
+git commit -m “descrição” : commitar um arquivo - todo commit tem uma assinatura eletrônica
+git config –global user.name
+git config –global user.email
+git add . (adiciona tudo de dentro da pasta atual pro commit)
+git diff (arquivo)
+
+Todo commit tem uma hash (ID)
+
+
+nano nomearquivo.tipoarquivo - editor de texto
